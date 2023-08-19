@@ -58,17 +58,17 @@ Apaixonado pela tecnologia e jogos, a curiosidade sobre novidades sempre me moti
 
 <div align="left">
 	<a href="https://github.com/gabrielkalbaitzrusso/github-readme-stats" target = "_blank">
-		<img height="250em" src="https://github-readme-stats.vercel.app/api?username=gabrielkalbaitzrusso&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=00FF00&text_color=FFF">
+		<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielkalbaitzrusso&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=00FF00&text_color=FFF">
 	</a>
-	<img height="250em" alt="Top Langs" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gabrielkalbaitzrusso&bg_color=000&border_color=30A3DC&title_color=00FF00&text_color=FFF">
+	<img height="180em" alt="Top Langs" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gabrielkalbaitzrusso&bg_color=000&border_color=30A3DC&title_color=00FF00&text_color=FFF">
 </div>
 
 ***
 ## Meus Principais Projetos
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielkalbaitzrusso&repo=pokedex&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=00FF00&text_color=FFF&height=250em)](https://github.com/gabrielkalbaitzrusso/pokedex)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielkalbaitzrusso&repo=churrascometro&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=00FF00&text_color=FFF&height=250em)](https://github.com/gabrielkalbaitzrusso/churrascometro)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielkalbaitzrusso&repo=pokedex&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=00FF00&text_color=FFF&height=180em)](https://github.com/gabrielkalbaitzrusso/pokedex)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielkalbaitzrusso&repo=churrascometro&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=00FF00&text_color=FFF&height=180em)](https://github.com/gabrielkalbaitzrusso/churrascometro)
 
 ***
 
 ## Minhas Contribuições
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielkalbaitzrusso&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=00FF00&text_color=FFF&height=250em)](https://github.com/gabrielkalbaitzrusso/dio-lab-open-source)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielkalbaitzrusso&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=00FF00&text_color=FFF&height=180em)](https://github.com/gabrielkalbaitzrusso/dio-lab-open-source)
