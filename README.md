@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> Hello World, I'm Gabriel!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> Olá mundo, sou o Gabriel!
 </h1>
 
 <div align="center">
@@ -7,7 +7,7 @@
 </div>
 
 <h3 align="center">
-  FullStack Developer
+  Desenvolvedor FullStack
 </h3>
 
 <div align="center">
